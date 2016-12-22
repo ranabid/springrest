@@ -1,0 +1,7 @@
+Jetty configuration
+---------------------
+https://www.mkyong.com/maven/maven-jetty-plugin-examples/
+http://www.eclipse.org/jetty/documentation/current/jetty-maven-plugin.html
+
+
+
